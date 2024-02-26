@@ -10,3 +10,4 @@ Part of my adventure into learning C++ and embedded systems.
 - [RGB LED](mbed-os-rgb-led/README.md)
 - [Ultrasonic Sensor](mbed-os-ultrasonic/README.md)
 - [DHT22](mbed-os-dht22/README.md)
+- [ILI9341 Touchscreen](mbed-os-ili9341-touchscreen/README.md)
