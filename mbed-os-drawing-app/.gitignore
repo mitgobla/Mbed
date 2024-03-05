@@ -1,0 +1,9 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+LCD_fonts
+SPI_TFT_ILI9341
+serial_plot.ipynb
