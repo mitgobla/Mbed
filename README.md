@@ -12,3 +12,4 @@ Part of my adventure into learning C++ and embedded systems.
 - [DHT22](mbed-os-dht22/README.md)
 - [ILI9341 Touchscreen](mbed-os-ili9341-touchscreen/README.md)
 - [Drawing Application](mbed-os-drawing-app/README.md)
+- [Soil Moisture Sensor](mbed-os-moisture/README.md)
