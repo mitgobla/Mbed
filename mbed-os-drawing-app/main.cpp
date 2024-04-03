@@ -3,8 +3,8 @@
 
 // VCC
 // GND
-// CS		    D9
-// RESET	    D1
+// CS		    D8
+// RESET	    D9
 // DC		    D10
 // SDI(MOSI)	MOSI-D11
 // SCK		    SCK-D13
@@ -12,8 +12,8 @@
 // SDO(MISO)	MISO-D12
 
 // TFT LCD Display
-PinName csPin(ARDUINO_UNO_D9);
-PinName resetPin(ARDUINO_UNO_D1);
+PinName csPin(ARDUINO_UNO_D8);
+PinName resetPin(ARDUINO_UNO_D9);
 PinName dcPin(ARDUINO_UNO_D10);
 PinName mosiPin(ARDUINO_UNO_D11);
 PinName sckPin(ARDUINO_UNO_D13);

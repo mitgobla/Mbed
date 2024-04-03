@@ -10,12 +10,12 @@
 
 
 // TFT LCD Display
-PinName csPin(ARDUINO_UNO_D7);
-PinName resetPin(ARDUINO_UNO_D6);
-PinName dcPin(ARDUINO_UNO_D5);
-PinName mosiPin(ARDUINO_UNO_D11); // SDI
+PinName csPin(ARDUINO_UNO_D8);
+PinName resetPin(ARDUINO_UNO_D9);
+PinName dcPin(ARDUINO_UNO_D10);
+PinName mosiPin(ARDUINO_UNO_D11);
 PinName sckPin(ARDUINO_UNO_D13);
-PinName misoPin(ARDUINO_UNO_D12); // SDO
+PinName misoPin(ARDUINO_UNO_D12);
 
 SPI_TFT_ILI9341 display(mosiPin, misoPin, sckPin, csPin, resetPin, dcPin);
 
